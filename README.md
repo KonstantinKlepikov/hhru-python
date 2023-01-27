@@ -1,4 +1,4 @@
-# hhru-python
+# hhru python vacations
 
 - [hhru api](https://github.com/hhru/api)
 - [redoc api](https://api.hh.ru/openapi/redoc)
